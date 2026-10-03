@@ -1,0 +1,6 @@
+# Relógios Esportivos — https://relogiosesportivos.com.br
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://relogiosesportivos.com.br/sitemap.xml

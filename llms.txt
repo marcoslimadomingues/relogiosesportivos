@@ -1,0 +1,44 @@
+# Relógios Esportivos
+
+> Portal independente com guias, fichas técnicas verificadas e comparativos de relógios esportivos, com foco inicial em Garmin e em leitores de Fortaleza e região metropolitana.
+
+Relógios Esportivos é um portal editorial independente. Não possui vínculo institucional ou comercial com a Garmin Ltd., suas subsidiárias ou outros fabricantes mencionados. Marcas e nomes de produtos pertencem aos respectivos titulares e são citados apenas para fins informativos.
+
+Política editorial: especificações transcritas de fontes oficiais do fabricante, com data de verificação em cada página. O portal não publica preços, estoque, notas ou avaliações sem dado verificável. Metodologia: https://relogiosesportivos.com.br/sobre/#metodologia
+
+## Fichas técnicas
+
+- [Garmin fēnix 8](https://relogiosesportivos.com.br/garmin/fenix/fenix-8/): Ficha técnica verificada do Garmin fēnix 8 no Brasil: versões 8S (43 mm), 8 (47 mm), 8X (51 mm) e Solar, bateria por modo, mapas, mergulho e lanterna. (verificado em 2026-10-03)
+- [Garmin Forerunner 970](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-970/): Ficha técnica verificada do Garmin Forerunner 970: tela AMOLED com safira, GPS multibanda, mapas, lanterna, bateria por modo e diferenças para o 570 e o 965. (verificado em 2026-10-03)
+- [Garmin Instinct 3](https://relogiosesportivos.com.br/garmin/instinct/instinct-3/): Ficha técnica verificada do Garmin Instinct 3 nas versões AMOLED e Solar (45 e 50 mm): bateria por modo, 10 ATM, lanterna, multibanda e limitações. (verificado em 2026-10-03)
+- [Garmin Venu 4](https://relogiosesportivos.com.br/garmin/venu/venu-4/): Ficha técnica verificada do Garmin Venu 4 (41 e 45 mm): tela AMOLED, caixa de aço, lanterna LED, ECG, bateria por modo e perfil de uso indicado. (verificado em 2026-10-03)
+- [Garmin Forerunner 570](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-570/): Ficha técnica verificada do Garmin Forerunner 570 (42 e 47 mm): tela AMOLED, GPS multibanda, bateria por modo, recursos de triatlo e diferenças para o 970 e o 265. (verificado em 2026-10-03)
+- [Garmin Forerunner 265](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-265/): Ficha técnica verificada do Garmin Forerunner 265 e 265S: tela AMOLED, GPS multibanda, bateria por modo, métricas de treino e diferenças para o 965 e o 570. (verificado em 2026-10-03)
+- [Garmin Forerunner 965](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-965/): Ficha técnica verificada do Garmin Forerunner 965: AMOLED de 1,4&quot;, mapas, moldura de titânio, até 23 dias de bateria e diferenças para o 265 e o 970. (verificado em 2026-10-03)
+
+## Linhas Garmin
+
+- [Garmin Forerunner](https://relogiosesportivos.com.br/garmin/forerunner/): Linha da Garmin dedicada à corrida e, nos modelos superiores, ao triatlo.
+- [Garmin fēnix](https://relogiosesportivos.com.br/garmin/fenix/): Linha multiesportiva premium da Garmin, voltada a esportes de resistência e atividades outdoor.
+- [Garmin Venu](https://relogiosesportivos.com.br/garmin/venu/): Linha de smartwatches da Garmin com ênfase em saúde, bem-estar e uso diário.
+- [Garmin Instinct](https://relogiosesportivos.com.br/garmin/instinct/): Linha de relógios robustos da Garmin, pensada para uso ao ar livre e em condições exigentes.
+
+## Guias e modalidades
+- [Relógios para corrida](https://relogiosesportivos.com.br/relogios-para-corrida/)
+- [Relógios para triatlo](https://relogiosesportivos.com.br/relogios-para-triatlo/)
+- [Relógios para ciclismo](https://relogiosesportivos.com.br/relogios-para-ciclismo/)
+- [Guias de compra](https://relogiosesportivos.com.br/guias-de-compra/)
+- [AMOLED vs MIP: diferenças e aplicações em relógios esportivos](https://relogiosesportivos.com.br/artigos/amoled-ou-mip/): AMOLED ou MIP? Entenda como cada tela funciona, o impacto na bateria e na leitura ao sol, com números oficiais do fēnix 8 e do Instinct 3 nas duas versões.
+
+## Comparativos
+- [Comparativos](https://relogiosesportivos.com.br/comparativos/)
+- [Forerunner 265 vs Forerunner 965: diferenças e qual escolher](https://relogiosesportivos.com.br/comparativos/forerunner-265-vs-forerunner-965/): Garmin Forerunner 265 ou 965? Comparativo com dados oficiais: mapas, tela, materiais, bateria, memória e disponibilidade no Brasil.
+- [Forerunner 570 vs Forerunner 970: diferenças e qual escolher](https://relogiosesportivos.com.br/comparativos/forerunner-570-vs-forerunner-970/): Garmin Forerunner 570 ou 970? Comparativo com dados oficiais: tamanhos, materiais, mapas, lanterna, ECG, bateria e métricas de corrida. Veja qual faz sentido para você.
+- [Forerunner 970 vs fēnix 8: diferenças e qual escolher](https://relogiosesportivos.com.br/comparativos/forerunner-970-vs-fenix-8/): Garmin Forerunner 970 ou fēnix 8 (47 mm)? Comparativo com dados oficiais: peso, resistência, mergulho, bateria, mapas e para quem cada um faz sentido.
+
+## Local
+- [Relógios esportivos em Fortaleza](https://relogiosesportivos.com.br/fortaleza/): conteúdo para Fortaleza e região metropolitana (CE, Brasil).
+
+## Institucional
+- [Sobre e metodologia](https://relogiosesportivos.com.br/sobre/)
+- [Política de privacidade](https://relogiosesportivos.com.br/privacidade/)

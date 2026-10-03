@@ -1,0 +1,56 @@
+# Relógios Esportivos — configuração Apache (hospedagem compartilhada)
+
+# Página de erro
+ErrorDocument 404 /404.html
+
+# Sem listagem de diretórios
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # /index.html → diretório (evita a mesma página em duas URLs)
+  RewriteCond %{THE_REQUEST} \s[^?\s]*/index\.html[\s?] [NC]
+  RewriteRule ^(.*/)?index\.html$ /$1 [R=301,L]
+
+  # Host canônico: qualquer outro endereço que sirva esta pasta (www, domínio de
+  # homologação em subpasta) → mesmo caminho em relogiosesportivos.com.br
+  RewriteCond %{HTTP_HOST} !^relogiosesportivos\.com\.br$ [NC]
+  RewriteRule ^(.*)$ http://relogiosesportivos.com.br/$1 [R=301,L]
+</IfModule>
+
+# Cabeçalhos de segurança
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=(), payment=()"
+</IfModule>
+
+# Tipos MIME
+<IfModule mod_mime.c>
+  AddType font/woff2 .woff2
+  AddType image/svg+xml .svg
+  AddType text/plain .txt
+  AddCharset utf-8 .html .css .js .txt .xml
+</IfModule>
+
+# Compressão
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/xml application/javascript text/javascript image/svg+xml
+</IfModule>
+
+# Cache: assets versionados por 1 ano, HTML sempre revalidado
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType image/png "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType application/xml "access plus 1 day"
+  ExpiresByType text/plain "access plus 1 day"
+</IfModule>
