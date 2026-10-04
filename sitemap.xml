@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://relogiosesportivos.com.br/garmin/</loc>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/garmin/fenix/</loc>
@@ -13,7 +14,7 @@
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/relogios-para-corrida/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/relogios-para-ciclismo/</loc>
@@ -21,29 +22,27 @@
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/guias-de-compra/</loc>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/comparativos/</loc>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/fortaleza/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/privacidade/</loc>
-    <lastmod>2026-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://relogiosesportivos.com.br/sobre/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/garmin/forerunner/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/relogios-para-triatlo/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://relogiosesportivos.com.br/</loc>
@@ -99,5 +98,9 @@
   <url>
     <loc>https://relogiosesportivos.com.br/comparativos/forerunner-970-vs-fenix-8/</loc>
     <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://relogiosesportivos.com.br/sobre/</loc>
+    <lastmod>2026-10-04</lastmod>
   </url>
 </urlset>
