@@ -8,13 +8,25 @@ Política editorial: especificações transcritas de fontes oficiais do fabrican
 
 ## Fichas técnicas
 
+- [Garmin epix Pro (Gen 2)](https://relogiosesportivos.com.br/garmin/epix/epix-pro/): Ficha técnica do Garmin epix Pro (Gen 2) Sapphire (42, 47 e 51 mm): AMOLED, safira, 10 ATM, 32 GB, mapas, lanterna e bateria por modo. (verificado em 2026-10-13)
 - [Garmin fēnix 8](https://relogiosesportivos.com.br/garmin/fenix/fenix-8/): Ficha técnica verificada do Garmin fēnix 8 no Brasil: versões 8S (43 mm), 8 (47 mm), 8X (51 mm) e Solar, bateria por modo, mapas, mergulho e lanterna. (verificado em 2026-10-03)
 - [Garmin Forerunner 970](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-970/): Ficha técnica verificada do Garmin Forerunner 970: tela AMOLED com safira, GPS multibanda, mapas, lanterna, bateria por modo e diferenças para o 570 e o 965. (verificado em 2026-10-03)
 - [Garmin Instinct 3](https://relogiosesportivos.com.br/garmin/instinct/instinct-3/): Ficha técnica verificada do Garmin Instinct 3 nas versões AMOLED e Solar (45 e 50 mm): bateria por modo, 10 ATM, lanterna, multibanda e limitações. (verificado em 2026-10-03)
+- [Garmin Lily 2](https://relogiosesportivos.com.br/garmin/lily/lily-2/): Ficha técnica verificada do Garmin Lily 2 (Classic, Sport e Active): tela de cristal líquido, 35 e 38 mm, bateria, GPS e perfil de uso indicado. (verificado em 2026-10-13)
 - [Garmin Venu 4](https://relogiosesportivos.com.br/garmin/venu/venu-4/): Ficha técnica verificada do Garmin Venu 4 (41 e 45 mm): tela AMOLED, caixa de aço, lanterna LED, ECG, bateria por modo e perfil de uso indicado. (verificado em 2026-10-03)
+- [Garmin vívoactive 6](https://relogiosesportivos.com.br/garmin/vivoactive/vivoactive-6/): Ficha técnica verificada do Garmin vívoactive 6: AMOLED de 1,2&quot;, 8 GB, PacePro, dinâmica de corrida, bateria de até 11 dias e perfil de uso indicado. (verificado em 2026-10-13)
+- [Garmin fēnix 8 Pro](https://relogiosesportivos.com.br/garmin/fenix/fenix-8-pro/): Ficha técnica do Garmin fēnix 8 Pro (47 e 51 mm, AMOLED e MicroLED): comunicação por satélite e LTE (inReach), bateria por modo, mergulho e lanterna. (verificado em 2026-10-13)
 - [Garmin Forerunner 570](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-570/): Ficha técnica verificada do Garmin Forerunner 570 (42 e 47 mm): tela AMOLED, GPS multibanda, bateria por modo, recursos de triatlo e diferenças para o 970 e o 265. (verificado em 2026-10-03)
+- [Garmin Venu 3](https://relogiosesportivos.com.br/garmin/venu/venu-3/): Ficha técnica verificada do Garmin Venu 3 e Venu 3S (45 e 41 mm): AMOLED, ECG, alto-falante e microfone, música, bateria por modo e perfil de uso. (verificado em 2026-10-13)
+- [Garmin vívoactive 5](https://relogiosesportivos.com.br/garmin/vivoactive/vivoactive-5/): Ficha técnica verificada do Garmin vívoactive 5: AMOLED de 1,2&quot;, 23 g, música, Garmin Pay, bateria de até 11 dias e perfil de uso indicado. (verificado em 2026-10-13)
+- [Garmin fēnix 9](https://relogiosesportivos.com.br/garmin/fenix/fenix-9/): Ficha técnica verificada do Garmin fēnix 9, 9S e 9X (43, 47 e 51 mm): AMOLED, titânio, safira, 64 GB, mapas, mergulho e bateria por modo de atividade. (verificado em 2026-10-13)
 - [Garmin Forerunner 265](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-265/): Ficha técnica verificada do Garmin Forerunner 265 e 265S: tela AMOLED, GPS multibanda, bateria por modo, métricas de treino e diferenças para o 965 e o 570. (verificado em 2026-10-03)
+- [Garmin fēnix 7X Pro](https://relogiosesportivos.com.br/garmin/fenix/fenix-7x-pro/): Ficha técnica do Garmin fēnix 7X Pro (Solar e Sapphire Solar): tela MIP de 1,4&quot;, carregamento solar, mapas, lanterna, ECG e bateria de até 28 dias. (verificado em 2026-10-13)
 - [Garmin Forerunner 965](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-965/): Ficha técnica verificada do Garmin Forerunner 965: AMOLED de 1,4&quot;, mapas, moldura de titânio, até 23 dias de bateria e diferenças para o 265 e o 970. (verificado em 2026-10-03)
+- [Garmin Forerunner 170](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-170/): Ficha técnica verificada do Garmin Forerunner 170 e 170 Music: AMOLED, Wi-Fi, status de VFC, giroscópio, bateria por modo e perfil de uso indicado. (verificado em 2026-10-13)
+- [Garmin Forerunner 70](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-70/): Ficha técnica verificada do Garmin Forerunner 70: tela AMOLED de 1,2&quot;, potência e dinâmica de corrida, PacePro, bateria de até 13 dias e perfil de uso. (verificado em 2026-10-13)
+- [Garmin Forerunner 165](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-165/): Ficha técnica verificada do Garmin Forerunner 165 e 165 Music: AMOLED de 1,2&quot;, altímetro, bússola, Garmin Pay, bateria por modo e perfil de uso. (verificado em 2026-10-13)
+- [Garmin Forerunner 55](https://relogiosesportivos.com.br/garmin/forerunner/forerunner-55/): Ficha técnica verificada do Garmin Forerunner 55: tela MIP de 1,04&quot;, GPS, 5 ATM, bateria de até 2 semanas, PacePro e perfil de uso indicado. (verificado em 2026-10-13)
 
 ## Linhas Garmin
 
@@ -22,6 +34,9 @@ Política editorial: especificações transcritas de fontes oficiais do fabrican
 - [Garmin fēnix](https://relogiosesportivos.com.br/garmin/fenix/): Linha multiesportiva premium da Garmin, voltada a esportes de resistência e atividades outdoor.
 - [Garmin Venu](https://relogiosesportivos.com.br/garmin/venu/): Linha de smartwatches da Garmin com ênfase em saúde, bem-estar e uso diário.
 - [Garmin Instinct](https://relogiosesportivos.com.br/garmin/instinct/): Linha de relógios robustos da Garmin, pensada para uso ao ar livre e em condições exigentes.
+- [Garmin vívoactive](https://relogiosesportivos.com.br/garmin/vivoactive/): Linha de smartwatches esportivos leves da Garmin, com tela AMOLED, música e recursos de saúde para o dia a dia.
+- [Garmin Lily](https://relogiosesportivos.com.br/garmin/lily/): Linha de smartwatches compactos da Garmin, com caixa pequena e acompanhamento básico de saúde e atividades.
+- [Garmin epix](https://relogiosesportivos.com.br/garmin/epix/): Linha multiesportiva da Garmin com tela AMOLED, mapas e construção premium para atividades outdoor.
 
 ## Guias e modalidades
 - [Relógios para corrida](https://relogiosesportivos.com.br/relogios-para-corrida/)
